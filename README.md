@@ -19,12 +19,10 @@
 # install dependencies
 npm install
 
-# serve with live reloading at localhost:8080
+# serve with live reloading at localhost:5175
 npm run devall
 
 # build for production with transpilation / minification
 npm run build
 
-# serve your production build at localhost:5000
-npm start
 ```
